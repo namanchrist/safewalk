@@ -1,5 +1,8 @@
 # SafeWalk App
 
+## need to add your google maps apikey in androidmanifest file and build_gradle.kts
+## need to add your api of firebase in google-servison.json
+
 ## Build Fixes
 
 ### 1. Removed unavailable dependency
