@@ -22,7 +22,7 @@ android {
         }
         
         // Use the real Google Maps API key
-        manifestPlaceholders["MAPS_API_KEY"] = "AIzaSyDncP_8tLKG1_LQISCOji4iFP4BzGFfHo4"
+        manifestPlaceholders["MAPS_API_KEY"] = "your_api_key"
     }
 
     buildTypes {
