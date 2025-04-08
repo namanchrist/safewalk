@@ -45,7 +45,7 @@
         <!-- Maps API Key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDncP_8tLKG1_LQISCOji4iFP4BzGFfHo4" />
+            android:value="your_api_key" />
             
         <activity
             android:name=".ui.splash.SplashActivity"
